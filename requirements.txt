@@ -1,0 +1,19 @@
+# Core libraries for the LangChain RAG pipeline
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-openai==0.1.6
+langchain-core==0.1.52
+
+# Vector store for embeddings
+chromadb==0.4.24
+
+# For loading and processing PDF documents
+pypdf==4.2.0
+
+# Tokenizer used by LangChain's text splitters
+tiktoken==0.6.0
+
+# To handle environment variables and user input securely
+python-dotenv
+getpass
+
