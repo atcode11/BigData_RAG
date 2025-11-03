@@ -36,7 +36,7 @@ This project implements a classic and robust RAG architecture using the LangChai
 
 ### Architecture
 ![RAG Architecture Diagram](images/rag_architecture.png)
-
+**Tech Stack:** Python, LangChain, OpenAI API, ChromaDB, PyPDF, Tiktoken
 ---
 
 ## 3. Key Results & Impact
