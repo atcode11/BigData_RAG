@@ -66,8 +66,7 @@ The system was tested with a series of true/false and open-ended questions based
 
 ### Future Roadmap
 *   **V1.1 (Chat History):** Incorporate conversational memory to allow for follow-up questions, turning the Q&A system into a true "chat over documents" experience.
-*   **V2.0 (Hybrid Search):** Augment the vector-based retriever with traditional keyword search (like BM25) to create a more robust hybrid search system that excels at both semantic and keyword-specific queries.
-*   **V3.0 (User Interface):** Build a simple web frontend using a framework like Streamlit or Gradio to make the system accessible to non-technical users.
+*   **V2.0 (User Interface):** Build a simple web frontend using a framework like Streamlit or Gradio to make the system accessible to non-technical users.
 
 ---
 
